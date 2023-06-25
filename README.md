@@ -1,4 +1,4 @@
-# 👨🏻‍💻 About Me:
+# Hello👋🏻
 💼 I'm currently working on my IT projects<br>💻 Develop systems in Notion <br>🤩 I help people work more efficiently<br>🙋🏻‍♂️ Teaching children to program<br>📷 I'm fond of photography
 
 
